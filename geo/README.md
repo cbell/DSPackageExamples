@@ -1,0 +1,1 @@
+Notebooks to test Geological and seismological packages specifically. To be used with a corresponding image from the calpolydatascience docker organization. Most likely to be used will be calpolydatascience/geology-base. 
